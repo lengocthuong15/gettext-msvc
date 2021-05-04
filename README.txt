@@ -1,4 +1,7 @@
-Visual Studio 2013 solution for gettext-0.19.4 and libiconv-1.14
+This was forked from kahrl/gettext-msvc
+Add support for Visual Studio 2019
+================================================================
+Visual Studio 2019 solution for gettext-0.19.4 and libiconv-1.14
 ================================================================
 
 This lets you build libintl (from gettext) and libiconv with Visual Studio 2013.
