@@ -1,0 +1,61 @@
+﻿  bindtextdom.c
+  dcgettext.c
+  dcigettext.c
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\dcigettext.c(1393,35): warning C4311: 'type cast': pointer truncation from 'size_t *' to 'int'
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\dcigettext.c(1394,41): warning C4311: 'type cast': pointer truncation from 'size_t *' to 'int'
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\dcigettext.c(917,1): warning C4267: 'initializing': conversion from 'size_t' to 'nls_uint32', possible loss of data
+  dcngettext.c
+  dgettext.c
+  dngettext.c
+  explodename.c
+  finddomain.c
+  gettext.c
+  hash-string.c
+  intl-compat.c
+  l10nflist.c
+  langprefs.c
+  loadmsgcat.c
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\loadmsgcat.c(881,56): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  localcharset.c
+  localealias.c
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\localealias.c(203,63): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+  localename.c
+  lock.c
+  log.c
+  ngettext.c
+  Compiling...
+  osdep.c
+  plural-exp.c
+  plural.c
+  printf.c
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1918,75): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1921,75): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1924,73): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1927,77): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2437,37): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2671,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2716,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2846,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2875,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(4643,37): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\printf.c(113,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\printf.c(174,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\printf.c(235,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1918,75): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1921,75): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1924,73): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(1927,77): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2437,37): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2502,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2538,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2590,76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(2615,76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\vasnprintf.c(4643,37): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\printf.c(343,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\Git\gettext-msvc-2019\gettext-0.19.4\gettext-runtime\intl\printf.c(418,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  relocatable.c
+  setlocale.c
+  textdomain.c
+  version.c
+  xsize.c
+  libintl.vcxproj -> D:\Git\gettext-msvc-2019\Release-x64\libintl.lib
